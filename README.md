@@ -7,3 +7,7 @@ Here you find all the Stuff for Development (SCSS, JS, etc).
 
 # Public
 Here you find all the Gulp converted Files which you can use for Production.
+
+# Installing
+For use you need the following Requirements
+Node, Gulp, Bower
